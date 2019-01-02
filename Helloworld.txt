@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 class Helloworld{
 static void welcomeMethod()
 {
@@ -5,6 +6,7 @@ system.out.println("Hello World....!!!");
 }
 public static void main(String x[])
 {
-myMethod();
+Helloworld ob=new HelloWorld();
+ob.welcomeMethod();
 }
 }
