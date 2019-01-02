@@ -1,6 +1,10 @@
 class Helloworld{
-public static void main(String x[])
+static void myMethod()
 {
 system.out.println("Hello World....!!!");
+}
+public static void main(String x[])
+{
+myMethod();
 }
 }
